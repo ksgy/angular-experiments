@@ -50,3 +50,4 @@ HTML:
 * [http://www.ng-newsletter.com/advent2013/#!/](http://www.ng-newsletter.com/advent2013/#!/)
 * [http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/](http://blog.scalyr.com/2013/10/31/angularjs-1200ms-to-35ms/)
 * [http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/](http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/)
+
